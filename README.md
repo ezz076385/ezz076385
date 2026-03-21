@@ -9,7 +9,7 @@
 - 👀 I'm interested in **Data Analysis**, Business Intelligence & Storytelling with Data
 - 🌱 I'm currently learning **Python for Data Science**, **SQL Advanced Techniques**, and **Power BI / Tableau**
 - 💞️ I'm looking to collaborate on **open-source data projects**, **EDA notebooks**, and **dashboard design**
-- 📫 How to reach me: [![LinkedIn]((https://www.linkedin.com/in/mohamed-ezz-64276a220/)) ·
+- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)] ([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/mohamed-ezz-64276a220/))
   <!--
    [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
    -->
