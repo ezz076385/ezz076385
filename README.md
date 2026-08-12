@@ -29,7 +29,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 ![Ezz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezz076385&show_icons=true&theme=tokyonight&hide_border=true)
@@ -46,7 +46,7 @@
 | 🧹 [Data Cleaning Pipeline](https://github.com/ezz076385) | Reusable pipeline for messy datasets | Python, NumPy |
 
 ---
-<!---
+
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
