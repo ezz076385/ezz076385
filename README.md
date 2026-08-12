@@ -36,7 +36,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezz076385&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-<!---
+
 ## 📌 Featured Projects
 
 | Project | Description | Tools |
@@ -46,6 +46,7 @@
 | 🧹 [Data Cleaning Pipeline](https://github.com/ezz076385) | Reusable pipeline for messy datasets | Python, NumPy |
 
 ---
+<!---
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
