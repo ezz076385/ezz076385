@@ -69,3 +69,4 @@
 ezz076385/ezz076385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:075985,100:0F172A&height=90&section=footer" width="100%"/>
