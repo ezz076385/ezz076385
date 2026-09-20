@@ -3,8 +3,18 @@
 - 👀 I’m interested in Data Analysis
 - # 👋 Hi, I'm Ezz -->
 
-### 🎯 Data Analyst | Turning raw data into clear insights
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=180&section=header&text=Mohamed%20Osama&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=15" width="100%"/>
+
+### Data Analytics · Data Engineering · Business Intelligence
+
+**SQL • Python • Power BI • SSIS • Data Warehousing**
+
+</div>
+<!--
+### 🎯 Data Analyst | Turning raw data into clear insights
+-->
 ---
 
 - 👀 I'm interested in **Data Analysis**, Business Intelligence & Storytelling with Data
