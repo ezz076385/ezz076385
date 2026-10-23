@@ -1,72 +1,163 @@
-<!--
-- 👋 Hi, I’m @ezz076385
-- 👀 I’m interested in Data Analysis
-- # 👋 Hi, I'm Ezz -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=180&section=header&text=Mohamed%20Ezz&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:075985,100:0284C7&height=180&section=header&text=Mohamed%20Ezzeldein&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20DATA%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descAlignY=58&descSize=15" width="100%"/>
 
+### Data Analytics · Data Engineering · Business Intelligence
 
 **SQL • Python • Power BI • SSIS • Data Warehousing**
 
 </div>
+
+---
+
+## `01` — About Me
+
+Hi, I'm **Mohamed Ezzeldein**, a BIS graduate focused on **Data Analytics, Data Engineering, and Business Intelligence**.
+
+I enjoy building end-to-end data solutions — from **ETL and data warehousing** to **analysis, data modeling, and interactive BI dashboards**.
+
+### What I Work With
+
+* **SQL** — Advanced Queries, CTEs, Window Functions
+* **SSIS** — ETL & Data Integration
+* **SQL Server** — Data Warehousing & Database Design
+* **Python** — Data Analysis & Automation
+* **Power BI** — DAX, Data Modeling & Dashboards
+
+Currently exploring **Microsoft Fabric, Dimensional Modeling, Data Warehousing, and Machine Learning**.
+
+---
+
+## `02` — Data Workflow
+
+```text
+     DATA SOURCES
+   CSV • Excel • DB
+          │
+          ▼
+     ETL / CLEANING
+      SSIS • SQL
+          │
+          ▼
+     DATA WAREHOUSE
+       SQL Server
+          │
+          ▼
+     DATA MODELING
+      Fact • Dim
+          │
+          ▼
+       ANALYSIS
+   SQL • Python • DAX
+          │
+          ▼
+     BUSINESS INTELLIGENCE
+          Power BI
+```
+
+---
+
+## `03` — Tech Stack
+
+<div align="center">
+
+### Data Engineering
+
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-075985?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Warehouse-0F172A?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+### Analytics & BI
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827"/>
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
 <!--
-### 🎯 Data Analyst | Turning raw data into clear insights
+### Python & Data Science
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+-->
+</div>
+
+---
+
+## `04` — Featured Projects
+
+### 🏠 Manufacturing Data Analytics Project
+
+**SSIS · SQL Server · Power BI**
+
+End-to-end real estate analytics project covering **ETL, data preparation, SQL analysis, KPIs, and Power BI reporting**.
+
+`ETL` `SQL Server` `Data Analysis` `Power BI`
+<!--
+[View Repository](https://github.com/Mohamd-Osama/Real-Estate-Data-Analysis-)
 -->
 ---
 
-- 👀 I'm interested in **Data Analysis**, Business Intelligence & Storytelling with Data
-- 🌱 I'm currently learning **Operations & Data Analytics Specialist** | **Power BI & Excel Expert** | **Business & Performance Analysis** | Data Modeling **(SQL, DAX)** | **Python for Data Science**, **SQL Advanced Techniques** **Tableau** 
-- 💞️ I'm looking to collaborate on **open-source data projects**, **EDA notebooks**, and **dashboard design**
-- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)] ([https://www.linkedin.com/in/mohamedezz076385/])
-  <!--
-   [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
-   -->
-- ⚡ Fun fact: I believe every messy dataset has a story — you just need the right query to find it.
+### 📦 HR-Workforce-Attendance-Analysis
+
+**SQL · Python · Power BI**
+
+Analysis of supply chain data focusing on **inventory, logistics, operational performance, and business insights**.
+
+`SQL` `Python` `EDA` `Business Analytics`
+
+[View Repository](https://github.com/ezz076385/HR-Workforce-Attendance-Analysis)
 
 ---
+<!--
+### 🚗 Road Accidents Analysis
 
-## 🛠️ Tools & Skills
+**Python · Pandas · Matplotlib**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Exploratory analysis of road accident data to identify **trends, casualty patterns, and factors related to accident severity**.
 
----
-<!---
-## 📊 GitHub Stats
+`Data Cleaning` `EDA` `Visualization` `Pattern Analysis`
 
-![Ezz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezz076385&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezz076385&layout=compact&theme=tokyonight&hide_border=true)
-
+[View Repository](https://github.com/Mohamd-Osama/Road-Accidents-Data-Analysis-)
+-->
 ---
 
-## 📌 Featured Projects
+## `05` — Currently Exploring
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🔍 [Sales Analysis](https://github.com/ezz076385) | End-to-end EDA on retail sales data | Python, Pandas, Matplotlib |
-| 📈 [Customer Churn Dashboard](https://github.com/ezz076385) | Interactive dashboard tracking churn KPIs | Power BI, SQL |
-| 🧹 [Data Cleaning Pipeline](https://github.com/ezz076385) | Reusable pipeline for messy datasets | Python, NumPy |
+| Area                 | Focus                                              |
+| -------------------- | -------------------------------------------------- |
+| **Data Engineering** | ETL · Data Warehousing · Dimensional Modeling      |
+| **SQL**              | Advanced Queries · Window Functions · Optimization |
+| **Power BI**         | DAX · Data Modeling · Dashboard Design             |
+| **Microsoft Fabric** | OneLake · Lakehouse · Warehouse · Pipelines        |
+| **Python**           | Pandas · NumPy · Machine Learning                  |
 
 ---
+<!--
+## `06` — GitHub Stats
 
+<div align="center">
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamd-Osama&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=0284C7&text_color=CBD5E1&rank_icon=github" width="48%"/>
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-ezz076385/ezz076385 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamd-Osama&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1" width="40%"/>
+
+</div>
+
+---
+-->
+
+<div align="center">
+
+**SQL · ETL · DATA MODELING · POWER BI · PYTHON**
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284C7,50:075985,100:0F172A&height=90&section=footer" width="100%"/>
